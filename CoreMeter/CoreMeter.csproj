@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Shane Duffy</Authors>
+    <Company>shaneduffy.io</Company>
+    <Product />
+    <Description>Window z-order management functionality for background style applications.</Description>
+    <RepositoryUrl>https://github.com/cppshane/CoreMeter</RepositoryUrl>
+    <Version>1.0.2</Version>
+  </PropertyGroup>
+
+</Project>
